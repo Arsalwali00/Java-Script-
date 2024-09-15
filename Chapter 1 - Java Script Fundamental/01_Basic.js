@@ -13,7 +13,7 @@ accountCity="Jalalabad"
 let accountState;
 
 /*
-prefer not to use var and also not use only name : Just const or let when we use const the value for that 
+prefer not to use var and also not use only name : use Just const or let when we use const the value for that 
 variable will not change and when we use let we can change the value for that variable.
 when we use var we will face issue in block scope and funciton scope.
 */
