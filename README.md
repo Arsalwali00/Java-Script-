@@ -50,7 +50,7 @@ Welcome to **JavaScript for Beginners**! This course is designed to take you fro
 
 ---
 
-## **7. 🌐 **DOM Manipulation** (Document Object Model)
+## **🌐 **DOM Manipulation** (Document Object Model)
 - 🖱️ **All DOM Selectors**: Learn how to select elements in the DOM.
 - 🏗️ **Creating New Elements**: Dynamically create elements using JavaScript.
 - 📝 **Edit & Remove DOM Elements**: Modify and remove elements from the DOM.
