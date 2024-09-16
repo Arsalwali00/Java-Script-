@@ -19,3 +19,4 @@ when we use var we will face issue in block scope and funciton scope.
 */
 
 console.table([accountEmail,accountPassword,accountCity,accountState])
+

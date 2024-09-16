@@ -4,7 +4,7 @@
 
 console.log(9+5)
 
-console.log("Arslan Wali")  // There must be code readablity dont mesh the code
+console.log("Arslan Wali")  // There must be code readability dont mesh the code
 console.log("Jalalabad")
 
 let name = "Arslan Wali"
@@ -20,6 +20,4 @@ let isLoggedIn = false
 
 //object
 console.log(typeof null)
-console.log(typeof undefined)
-
-
+console.log(typeof undefined);
