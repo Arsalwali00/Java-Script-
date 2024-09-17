@@ -1,6 +1,6 @@
-# 🌟 JavaScript for Beginners 🌟
+# 🌟 JavaScript  🌟
 
-Welcome to **JavaScript for Beginners**! This course is designed to take you from the very basics of JavaScript all the way to advanced concepts. Let's dive into the wonderful world of JavaScript! 🚀
+Welcome to **JavaScript Course**! This course is designed to take you from the very basics of JavaScript all the way to advanced concepts. Let's dive into the wonderful world of JavaScript! 🚀
 
 ---
 
