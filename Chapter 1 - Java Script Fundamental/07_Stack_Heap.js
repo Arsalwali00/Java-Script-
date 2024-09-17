@@ -4,7 +4,7 @@
 
 let myYoutubeChannelName="Arslan Wali"
 
-let anotherName="Computer Vision"
+let anotherName=myYoutubeChannelName
 
 anotherName="Wali"
 
